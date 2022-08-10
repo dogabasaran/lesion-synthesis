@@ -5,7 +5,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)]((https://github.com/dogabasaran/lesion-synthesis/graphs/commit-activity))
 
 # Subject-Specific Lesion Generation and Pseudo-Healthy Synthesis for Multiple Sclerosis Brain Images
-*Official repository for the MICCAI 2022 SASHIMI Workshop paper: Subject-Specific Lesion Generation and Pseudo-Healthy Synthesis for Multiple Sclerosis Brain Images*
+*Official repository for the MICCAI 2022 SASHIMI Workshop paper: Subject-Specific Lesion Generation and Pseudo-Healthy Synthesis for Multiple Sclerosis Brain Images* <br> <br>
 We propose an attention-based generative adversarial network (GAN) for simultaneous multiple sclerosis (MS) lesion generation and pseudo-healthy synthesis. Our 2D framework employs two generators; one to generate pathological images from healthy images, and a second to synthesize healthy images from pathological ones. We utilise three discriminators, a discriminator for healthy images, a discriminator for pathological images, and a third for the foreground of the pathological generator, which encourages the generator to focus on lesion-related regions. 
 
 ## Framework
