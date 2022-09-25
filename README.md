@@ -22,7 +22,7 @@ Subject-specific multiple sclerosis lesion generation   |  Pseudo-healthy synthe
 </p>
 
 
-### [Extended Paper](https://arxiv.org/abs/2208.02135) | [Conference Paper]
+### [Extended Paper](https://arxiv.org/abs/2208.02135) | [Conference Paper](https://link.springer.com/chapter/10.1007/978-3-031-16980-9_1)
 
 Subject-Specific Lesion Generation and Pseudo-Healthy Synthesis for Multiple Sclerosis Brain Images.<br>
 [Berke Doğa Başaran](https://www.imperial.ac.uk/people/berke.basaran19)<sup>1,2</sup>, [Mengyun Qiao](https://scholar.google.com/citations?user=7c4xcv8AAAAJ&hl=zh-CN)<sup>2</sup>, [Paul M Matthews](https://www.imperial.ac.uk/people/p.matthews)<sup>3,4</sup>, [Wenjia Bai](https://www.imperial.ac.uk/people/w.bai)<sup>1,2,3</sup> <br>
