@@ -2,7 +2,7 @@
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
 ![Packagist](https://img.shields.io/badge/Pytorch-0.4.1-red.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/dogabasaran/lesion-synthesis)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)]((https://github.com/dogabasaran/lesion-synthesis/graphs/commit-activity))
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-blue.svg)]((https://github.com/dogabasaran/lesion-synthesis/graphs/commit-activity))
 
 # Subject-Specific Lesion Generation and Pseudo-Healthy Synthesis for Multiple Sclerosis Brain Images
 *Official repository for the MICCAI 2022 SASHIMI Workshop paper: Subject-Specific Lesion Generation and Pseudo-Healthy Synthesis for Multiple Sclerosis Brain Images* <br> <br>
